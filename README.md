@@ -1,6 +1,6 @@
 # bdcallingtask
 
-A new Flutter project.
+A flutter task given by bdCalling.
 
 ## APK 
 
