@@ -27,16 +27,6 @@ This Flutter application demonstrates how to parse JSON input and display the ou
   - A grid layout to show parsed data, with empty positions for missing data.
   - Responsive design with images and buttons.
 
-### Folder Structure
-lib/ 
-├── main.dart 
-├── screens/ 
-│ └── home_screen.dart 
-├── models/ 
-│ └── android_version.dart 
-|── utils/ 
-  └── json_parser.dart 
-
 
 
 ### Code Explanation
